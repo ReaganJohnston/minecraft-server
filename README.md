@@ -9,9 +9,8 @@ Install guide and file repository for the necessary mods and programs needed to 
 
 ## Windows Install
 ### Files you need to download from the repo
-1. ```voicechat-forge-1.19-2.2.45```
-2. ```forge-1.19-41.0.45-installer```. The ```voicechat-forge``` is a mod that is added to your game profile when you install the ```forge-1.19``` file.
-
+1. ```voicechat-forge-1.19-2.2.45```. The ```voicechat-forge``` is a mod that is added to your game profile when you install the ```forge-1.19``` file.
+2. ```forge-1.19-41.0.45-installer```
 ### Forge 1.19 install
 Literally download the ```forge-1.19-41.0.45-installer``` and **_double-click it_**. 
 
