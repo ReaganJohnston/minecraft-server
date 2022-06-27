@@ -53,7 +53,7 @@ Select **_Install Client_** and press "ok". See the image below. Note the versio
    - If you have mods already inside this folder,  that aren't supported by 1.19 I would suggest removing them (e.g. the old voicechat file). 
 
 ### Launching Up Minecraft
-Unfortunately there is a bit of a bug with the VoiceChat mod, it requires admin permissions to launch up the application. And to this date there isn't an easy workaround (even if you try and elevate the appliction's microphone settings). I have however made a bootleg **work around**. 
+Unfortunately there is a bit of a bug with the VoiceChat mod, it requires admin permissions to launch up the application (at least for the good ol macs). And to this date there isn't an easy workaround (even if you try and elevate the appliction's microphone settings). I have however made a bootleg **work around**. 
 
 Downloading the ```Minecraft_1.0.zip``` and extracting the zip (double clicking it) will give you a brand-new macOS minecraft application. This is literally a dummy app it holds no other purpose execpt to execute one line of code:
 
