@@ -14,6 +14,7 @@ Download the files attached to this repository, ```voicechat-forge-1.19-2.2.45``
 Literally download the ```forge-1.19-41.0.45-installer``` and **_double-click it_**. 
 
 Select **_Install Client_** and press "ok". See the image below
+
 ![Forge Link](https://i0.wp.com/www.alphr.com/wp-content/uploads/2021/03/1-32.png?resize=309%2C293&ssl=1)
 
 
@@ -50,4 +51,14 @@ Select **_Install Client_** and press "ok". See the image below. Note the versio
 4. Create a ```mods``` folder within this minecraft directory. It is case-sensitive so please be aware.
 5. Drag and drop / copy and past the ```voicechat-forge-1.19-2.2.45.jar``` file into this mods directory.
    - If you have mods already inside this folder,  that aren't supported by 1.19 I would suggest removing them (e.g. the old voicechat file). 
+
+### Launching Up Minecraft
+Unfortunately there is a bit of a bug with the VoiceChat mod, it requires admin permissions to launch up the application. And to this date there isn't an easy workaround (even if you try and elevate the appliction's microphone settings). I have however made a bootleg **work around**. 
+
+Downloading the ```Minecraft_1.0.zip``` and extracting the zip (double clicking it) will give you a brand-new macOS minecraft application. This is literally a dummy app it holds no other purpose execpt to execute one line of code:
+
+```/Applications/Minecraft.app/Contents/MacOS/launcher```
+
+This script will automatically launch up the REAL minecraft launcher in admin mode. Thereby by-passing all those pesky microphone bugs. When the application is extracted from the .zip and turned into ```Minecraft_1.0.app```, you should be able to double-click that new app and it will auto-start the proper minecraft launcher. **_Problem solved_** phew.
+
 
