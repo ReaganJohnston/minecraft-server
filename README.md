@@ -8,7 +8,9 @@ Install guide and file repository for the necessary mods and programs needed to 
 5. Maybe a brain
 
 ## Windows Install
-Download the files attached to this repository, ```voicechat-forge-1.19-2.2.45``` and ```forge-1.19-41.0.45-installer```. The ```voicechat-forge``` is a mod that is added to your game profile when you install the ```forge-1.19``` file.
+### Files you need to download from the repo
+1. ```voicechat-forge-1.19-2.2.45```
+2. ```forge-1.19-41.0.45-installer```. The ```voicechat-forge``` is a mod that is added to your game profile when you install the ```forge-1.19``` file.
 
 ### Forge 1.19 install
 Literally download the ```forge-1.19-41.0.45-installer``` and **_double-click it_**. 
@@ -33,7 +35,10 @@ Start up the Minecraft Launcher, making sure to select the ```forge 1.19-forge-4
 ## MacOS Install
 Make sure you have installed Java 8 JRE, as this is essential for the ```forge``` install. You can get the java installer here at this link https://www.java.com/en/download/manual.jsp
 
-Similar to the Windows Install, download the files attached to this repository, ```voicechat-forge-1.19-2.2.45```, ```forge-1.19-41.0.45-installer``` and ```Minecraft_1.0.zip```. The ```voicechat-forge``` is a mod that is added to your game profile when you install the ```forge-1.19``` file.
+### Files you need to download from the repo
+1. ```voicechat-forge-1.19-2.2.45``` The ```voicechat-forge``` is a mod that is added to your game profile when you install the ```forge-1.19``` file.
+2. ```forge-1.19-41.0.45-installer```
+3. ```Minecraft_1.0.zip```
 
 ### Forge 1.19 install
 As Mac users have fun fun times running downloaded files, do the following steps to open up the forge-installer:
