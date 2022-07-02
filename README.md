@@ -51,7 +51,7 @@ Select **_Install Client_** and press "ok". See the image below. Note the versio
 ### Adding the voicechat mod to your minecraft version
 1. Download the file ```voicechat-forge-1.19-2.2.45``` and keep it easily accessible.
 2. **_Open Finder_** and press ⇧ Shift + ⌘ Command + G or open the Spotlight popup through the magnifying glass icon on the right of the Menu Bar.
-3. Type ~/Library/Application Support/minecraft and hit ↵ Enter .
+3. Type ```~/Library/Application Support/minecraft``` and hit ↵ Enter .
 4. Create a ```mods``` folder within this minecraft directory. It is case-sensitive so please be aware.
 5. Drag and drop / copy and past the ```voicechat-forge-1.19-2.2.45.jar``` file into this mods directory.
    - If you have mods already inside this folder,  that aren't supported by 1.19 I would suggest removing them (e.g. the old voicechat file). 
